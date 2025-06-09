@@ -3,6 +3,8 @@ Archivo para la activida 2 Gerardo Toledo
 Parrafo no 2 en main
 parrafo 3 desde main
 
+parrafo 1 desde user1
+parrafo 2 desde user1
 parrafo no 1 en user2
 parrafo n 2 desde user2
 parrafo 3 desde user 2
